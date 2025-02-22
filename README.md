@@ -1,4 +1,4 @@
-# LLM-Based ticket reply evaluation
+# LLM-based ticket reply evaluation
 
 ## 1. Introduction
 
@@ -81,8 +81,6 @@ All dependencies are listed in the [requirements.txt](requirements.txt) file.
    ```ini
    OPENAI_API_KEY=your_api_key_here
    ```
-
----
 
 ## 5. Running the code
 
